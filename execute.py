@@ -1,0 +1,2 @@
+print("Sana")
+print("Hello")
